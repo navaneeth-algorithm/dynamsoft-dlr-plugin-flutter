@@ -1,7 +1,7 @@
 name: dynamsoftdlr
 description: A new flutter plugin project.
 version: 0.0.1
-homepage: http://inbennesoftware.com
+homepage: https://github.com/navaneeth-algorithm/dynamsoft-dlr-plugin-flutter.git
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
